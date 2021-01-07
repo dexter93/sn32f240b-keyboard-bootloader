@@ -46,6 +46,5 @@
 #define BLKEY_OUTPUT_GPIO SN_GPIO3
 #define BLKEY_OUTPUT_PIN 7
 #else
-#else
 #error Not configured for this target.
 #endif
